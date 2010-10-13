@@ -8,10 +8,10 @@ jQuery plugin to swap password field with a text field. The text field on focus 
     <html lang="en-US">
     <head>
       <meta charset="UTF-8">
-      <title></title>
+      <title>jquery.passwordTextSwap</title>
     </head>
     <body>
-      <form action=""><input type="password" id="password"><input type="submit" /></input></form>
+      <form action=""><input type="password" id="password" /><input type="submit" /></form>
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
       <script type="text/javascript" src="jquery.passwordTextSwap.js"></script>
       <script type="text/javascript">
@@ -20,4 +20,4 @@ jQuery plugin to swap password field with a text field. The text field on focus 
     </body>
     </html>
 
-[see also](http://gist.github.com/623238)
+[see also](http://jsfiddle.net/r5YDX/2/)
